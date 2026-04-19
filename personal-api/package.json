@@ -1,0 +1,12 @@
+{
+  "name": "personal-api",
+  "version": "1.0.0",
+  "description": "A minimal personal API for Stage 1 DevOps task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
