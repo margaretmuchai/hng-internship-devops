@@ -1,4 +1,4 @@
-# Personal API
+# HNG-INTERNSHIP-STAGE1
 
 A minimal REST API built with Node.js and Express, deployed on a Linux VPS behind an Nginx reverse proxy.
 
