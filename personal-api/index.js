@@ -14,7 +14,7 @@ app.get('/me', (req, res) => {
   res.status(200).json({
     name: 'Margaret Muchai',
     email: 'wanjirumuchai10@gmail.com',
-    github: 'https://github.com/margaretmuchai/hng-internship-devops'
+    github: 'https://github.com/margaretmuchai'
   });
 });
 
